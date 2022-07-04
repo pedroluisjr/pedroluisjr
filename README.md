@@ -1,8 +1,8 @@
 ### Hi, i'm Pedro Luiz/Olá. me chamo Pedro Luiz 👋
 
-- 🔭 Atualmente estudo Front-end!
-- 🌱 Estou Aprendendo React!
-- 😄 Pronouns: Ele/Dele
+- 🔭 Atualmente estudo Front-end/I'm Studying Front-end!
+- 🌱 Estou Aprendendo React/I'm Learning React!
+- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/pedroluisjr">
