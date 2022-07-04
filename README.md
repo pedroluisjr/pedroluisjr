@@ -1,4 +1,4 @@
-### Hi, i'm Pedro Luiz/Olá. me chamo Pedro Luiz 👋
+### Olá. me chamo Pedro Luiz/Hi, i'm Pedro Luiz 👋
 
 - 🔭 Atualmente estudo Front-end/I'm Studying Front-end!
 - 🌱 Estou Aprendendo React/I'm Learning React!
