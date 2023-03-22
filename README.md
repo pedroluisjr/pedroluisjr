@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estudo Front-end/Actually Studying Front-end!
 - 🌱 Estou Aprendendo React/Learning React!
-- 😄 Pronomes: Ele/Dele / Pronouns: He/Him
+- 😄 Sou uma pessoa extremamente focada, parei a algum tempo de atualizar meu Git porém vou retornar a colocar meus projetos aqui!
 
 <div align="center">
   <a href="https://github.com/pedroluisjr">
