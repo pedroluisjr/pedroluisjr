@@ -1,6 +1,6 @@
 ### Olá. me chamo Pedro Luiz/Hi, i'm Pedro Luiz 👋
 
-- 🔭 Atualmente estudo Front-end/Actually Studying Front-end!
+- 🔭 Procurando uma oportunidade na área do Front-end!/Looking for an opportunity in the Front-end area!
 - 🌱 Estou Aprendendo React/Learning React!
 - 😄 Sou uma pessoa extremamente focada, parei a algum tempo de atualizar meu Git porém vou retornar a colocar meus projetos aqui/I am an extremely focused person, I stopped updating my Git some time ago but I will return to putting my projects here!
 - 🤩 “Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.”/“Programmers and artists are the only professionals whose hobby is their profession.”
